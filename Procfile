@@ -1,1 +1,1 @@
-web: gunicorn cancerskindisease:app
+web: gunicorn app:app
